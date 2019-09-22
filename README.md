@@ -7,10 +7,10 @@
 |     |     |     |     |     |     |     |     |     |     |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
 | [あ](#あ-企業) 	| [か](#か-企業) 	| [さ](#さ-companies) 	| [た](#た-companies) 	| [な](#な-companies) 	| [は](#は-companies) 	| [ま](#ま-companies) 	| [や](#や-companies) 	| [ら](#ら-companies) 	| [わ](#わ-companies) 	|
-| [い](#い-企業) 	| [き](#き-企業) 	| [し](#し-companies) 	| [ち](#ち-companies) 	| [な](#な-companies) 	| [は](#は-companies) 	| [ま](#ま-companies) 	| [や](#や-companies) 	| [ら](#ら-companies) 	| [わ](#わ-companies) 	|
-| [う](#う-企業) 	| [く](#く-企業) 	| [す](#す-companies) 	| [つ](#つ-companies) 	| [な](#な-companies) 	| [は](#は-companies) 	| [ま](#ま-companies) 	| [や](#や-companies) 	| [ら](#ら-companies) 	| [わ](#わ-companies) 	|
-| [え](#え-企業) 	| [け](#け-企業) 	| [せ](#せ-companies) 	| [て](#て-companies) 	| [な](#な-companies) 	| [は](#は-companies) 	| [ま](#ま-companies) 	| [や](#や-companies) 	| [ら](#ら-companies) 	| [わ](#わ-companies) 	|
-| [お](#お-企業) 	| [こ](#こ-企業) 	| [そ](#そ-companies) 	| [と](#と-companies) 	| [な](#な-companies) 	| [は](#は-companies) 	| [ま](#ま-companies) 	| [や](#や-companies) 	| [ら](#ら-companies) 	| [わ](#わ-companies) 	|
+| [い](#い-企業) 	| [き](#き-企業) 	| [し](#し-companies) 	| [ち](#ち-companies) 	| [に](#に-companies) 	| [ひ](#ひ-companies) 	| [み](#み-companies) 	|  	| [り](#り-companies) 	|  	|
+| [う](#う-企業) 	| [く](#く-企業) 	| [す](#す-companies) 	| [つ](#つ-companies) 	| [ぬ](#ぬ-companies) 	| [ふ](#ふ-companies) 	| [む](#む-companies) 	| [ゆ](#ゆ-companies) 	| [る](#る-companies) 	| [を](#を-companies) 	|
+| [え](#え-企業) 	| [け](#け-企業) 	| [せ](#せ-companies) 	| [て](#て-companies) 	| [ね](#ね-companies) 	| [へ](#へ-companies) 	| [め](#め-companies) 	|  	| [れ](#れ-companies) 	|  	|
+| [お](#お-企業) 	| [こ](#こ-企業) 	| [そ](#そ-companies) 	| [と](#と-companies) 	| [の](#の-companies) 	| [ほ](#ほ-companies) 	| [も](#も-companies) 	| [よ](#よ-companies) 	| [ろ](#ろ-companies) 	| [ん](#ん-companies) 	|
 
 ### 企業
 
