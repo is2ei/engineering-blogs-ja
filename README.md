@@ -17,3 +17,7 @@
 #### め 企業
 
 - メルカリ https://tech.mercari.com/
+
+#### ら 企業
+
+- ラクス http://tech-blog.rakus.co.jp/
