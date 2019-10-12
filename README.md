@@ -14,6 +14,10 @@
 
 ### 企業
 
+#### ひ 企業
+
+- ビットバンク https://tech.bitbank.cc/
+
 #### め 企業
 
 - メルカリ https://tech.mercari.com/
