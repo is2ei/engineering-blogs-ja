@@ -16,6 +16,7 @@
 
 #### ひ 企業
 
+- ビズリーチ https://tech.bizreach.co.jp/
 - ビットバンク https://tech.bitbank.cc/
 
 #### め 企業
