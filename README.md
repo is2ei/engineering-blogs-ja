@@ -23,6 +23,10 @@
 - ビズリーチ https://tech.bizreach.co.jp/
 - ビットバンク https://tech.bitbank.cc/
 
+#### て 企業
+
+- テックフィード https://medium.com/@techfeed
+
 #### め 企業
 
 - メルカリ https://tech.mercari.com/
