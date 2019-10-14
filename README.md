@@ -14,6 +14,10 @@
 
 ### 企業
 
+#### い 企業
+
+- インフラジスティックス・ジャパン https://blogs.jp.infragistics.com
+
 #### ひ 企業
 
 - ビズリーチ https://tech.bizreach.co.jp/
