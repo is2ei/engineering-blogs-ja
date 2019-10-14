@@ -18,6 +18,10 @@
 
 - インフラジスティックス・ジャパン https://blogs.jp.infragistics.com
 
+### く 企業
+
+- クラッシー https://www.wantedly.com/feed/s/classi
+
 #### ひ 企業
 
 - ビズリーチ https://tech.bizreach.co.jp/
