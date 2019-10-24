@@ -20,6 +20,7 @@
 
 ### く 企業
 
+- クックパッド https://techlife.cookpad.com/
 - クラッシー https://www.wantedly.com/feed/s/classi
 
 #### ひ 企業
