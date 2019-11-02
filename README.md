@@ -16,6 +16,7 @@
 
 #### い 企業
 
+- 一休 https://user-first.ikyu.co.jp/
 - インフラジスティックス・ジャパン https://blogs.jp.infragistics.com
 
 #### く 企業
