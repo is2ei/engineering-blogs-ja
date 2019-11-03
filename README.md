@@ -54,3 +54,7 @@
 #### ら 企業
 
 - ラクス http://tech-blog.rakus.co.jp/
+
+#### り 企業
+
+- リクルートテクノロジーズ https://recruit-tech.co.jp/blog
