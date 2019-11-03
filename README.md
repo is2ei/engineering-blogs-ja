@@ -16,6 +16,10 @@
 
 ### 企業
 
+#### あ 企業
+
+- アクトインディ https://tech.actindi.net/
+
 #### い 企業
 
 - 一休 https://user-first.ikyu.co.jp/
