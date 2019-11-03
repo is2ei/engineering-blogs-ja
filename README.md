@@ -33,6 +33,10 @@
 - ビズリーチ https://tech.bizreach.co.jp/
 - ビットバンク https://tech.bitbank.cc/
 
+#### ふ 企業
+
+- フィードフォース https://developer.feedforce.jp/
+
 #### て 企業
 
 - テックフィード https://medium.com/@techfeed
