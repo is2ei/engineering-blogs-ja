@@ -25,6 +25,10 @@
 - 一休 https://user-first.ikyu.co.jp/
 - インフラジスティックス・ジャパン https://blogs.jp.infragistics.com
 
+#### え 企業
+
+- エコモット https://www.ecomottblog.com/?cat=27
+
 #### く 企業
 
 - クックパッド https://techlife.cookpad.com/
