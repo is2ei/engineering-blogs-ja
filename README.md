@@ -32,6 +32,7 @@
 #### く 企業
 
 - クックパッド https://techlife.cookpad.com/
+- グッドパッチ https://goodpatch.com/blog/
 - クラッシー https://www.wantedly.com/feed/s/classi
 
 #### ち 企業
