@@ -47,6 +47,7 @@
 #### ふ 企業
 
 - フィードフォース https://developer.feedforce.jp/
+- プレイド https://tech.plaid.co.jp/
 
 #### て 企業
 
