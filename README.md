@@ -69,4 +69,4 @@
 
 #### き 個人
 
-- [Kyo Nagashima](https://hail2u.net/)
+- Kyo Nagashima https://hail2u.net/
