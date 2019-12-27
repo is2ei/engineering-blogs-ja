@@ -64,3 +64,9 @@
 #### り 企業
 
 - リクルートテクノロジーズ https://recruit-tech.co.jp/blog
+
+### 個人
+
+#### き 個人
+
+- [Kyo Nagashima](https://hail2u.net/)
