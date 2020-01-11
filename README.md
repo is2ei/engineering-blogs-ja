@@ -27,6 +27,7 @@
 
 #### え 企業
 
+- エーピーコミュニケーションズ https://techblog.ap-com.co.jp/
 - エコモット https://www.ecomottblog.com/?cat=27
 
 #### く 企業
