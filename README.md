@@ -36,6 +36,10 @@
 - グッドパッチ https://goodpatch.com/blog/
 - クラッシー https://www.wantedly.com/feed/s/classi
 
+#### さ 企業
+
+- サイバーエージェント https://developers.cyberagent.co.jp/blog/
+
 #### ち 企業
 
 - チャットワーク https://creators-note.chatwork.com/
