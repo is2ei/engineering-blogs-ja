@@ -30,6 +30,10 @@
 - エーピーコミュニケーションズ https://techblog.ap-com.co.jp/
 - エコモット https://www.ecomottblog.com/?cat=27
 
+#### か 企業
+
+- カブク kabuku.co.jp/developers
+
 #### く 企業
 
 - クックパッド https://techlife.cookpad.com/
