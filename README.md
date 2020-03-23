@@ -68,6 +68,7 @@
 
 #### ら 企業
 
+- ラクーンホールディングス https://techblog.raccoon.ne.jp/
 - ラクス http://tech-blog.rakus.co.jp/
 
 #### り 企業
