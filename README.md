@@ -70,6 +70,7 @@
 
 - ラクーンホールディングス https://techblog.raccoon.ne.jp/
 - ラクス http://tech-blog.rakus.co.jp/
+- ランサーズ https://engineer.blog.lancers.jp/
 
 #### り 企業
 
